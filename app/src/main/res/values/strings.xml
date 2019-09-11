@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Atividade IMC AV1.1</string>
+    <string name="hint_edit_peso">Digite seu peso (Ex. 89)</string>
+    <string name="hint_edit_altura">Digite sua altura (Ex. 1.76)</string>
+    <string name="bt_calcular">Calcular IMC</string>
+    <string name="text_IMC">Seu IMC é:</string>
+    <string name="text_value" />
+    <string name="bt_mostrar_status">Mostrar Status</string>
+    <string name="bt_voltar">Voltar</string>
+    <string name="text_status">O IMC indica que você está com:</string>
+    <string name="bt_voltar_IMC">Voltar</string>
+</resources>
